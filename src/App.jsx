@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import viteLogo from '/vite.svg'
-import News from './components/news'
+import News from './components/News'
 
 function App() {
 
